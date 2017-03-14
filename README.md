@@ -1,0 +1,2 @@
+# Cuadratica
+Tarea ing software
